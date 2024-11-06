@@ -19,6 +19,9 @@
  *   - $content['top']
  *   - $content['content']
  *   - $content['bottom']
+ *   - $content['footertop1']
+ *   - $content['footertop2']
+ *   - $content['footertop3']
  *   - $content['footer']
  */
 ?>
